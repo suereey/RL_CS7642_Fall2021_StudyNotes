@@ -68,7 +68,7 @@
 	- ![p16](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_16.PNG)
 	- ![p17](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_17.PNG)
 - Relationships:
-	- ![p18]()
+	- ![p18](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_18.PNG)
 
 ## Summary
-- ![p19]()
+- ![p19](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_19.PNG)
