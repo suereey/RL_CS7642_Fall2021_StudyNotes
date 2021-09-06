@@ -62,7 +62,13 @@
 		- ![p13](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_13.PNG)
 	- Find policies: the udpated eqn changed the nonlinear problem into linear.
 		- ![p14](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_14.PNG)
-## Bellman Equn
-- Updated: V is the value
+## Bellman Eqn
+- Different bellman eqns:
 	- ![p15](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_15.PNG)
 	- ![p16](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_16.PNG)
+	- ![p17](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_17.PNG)
+- Relationships:
+	- ![p18]()
+
+## Summary
+- ![p19]()
