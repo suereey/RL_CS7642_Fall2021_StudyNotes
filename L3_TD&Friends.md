@@ -16,12 +16,19 @@
         - when γ=1, V(S3) = 1
 - Example 02: Estimate from data
     - Simple way:
-    ![5a]()
+    ![5a](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/5a.PNG)
     - Generalize it:
-    ![5b]()
+    ![5b](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/5b.PNG)
         - Looking at the temperal difference () and update to the value is going to equal to the difference between the reward (current step), and the estimated we have in the previous step. This difference drives the learning.
         - Similar as perceptron, in that way, the term in () is the error term in perceptron.
 - Select learning rate:
     - If learning rate dosen't get smaller overtime, it would never converge
-    - ![06]()
+    - ![06](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/6.PNG)
 ## TD Rule and Examples
+- TD(1):
+    - ![07]()
+    - ![08]()
+- TD(0):
+    - ![09]()
+- TD Lambda:
+    - ![10]()
