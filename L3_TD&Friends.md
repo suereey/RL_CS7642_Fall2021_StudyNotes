@@ -26,9 +26,9 @@
     - ![06](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/6.PNG)
 ## TD Rule and Examples
 - TD(1):
-    - ![07]()
-    - ![08]()
+    - ![07](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/07.PNG)
+    - ![08](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/08.PNG)
 - TD(0):
-    - ![09]()
+    - ![09](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/09.PNG)
 - TD Lambda:
     - ![10]()
