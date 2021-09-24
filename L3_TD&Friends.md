@@ -31,10 +31,10 @@
 - TD(0):
     - ![09](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/09.PNG)
 - TD Lambda:
-    - ![10]()
+    - ![10](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/10.PNGs)
 - K step estimator
-    - ![11]()
-    - ![12]()
-    - ![13]()
+    - ![11](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/11.PNG)
+    - ![12](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/12.PNG)
+    - ![13](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/13.PNG)
 ## Summary
-    - ![14]()   
+    - ![14](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/14.PNG)   
