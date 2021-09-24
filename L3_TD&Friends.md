@@ -37,4 +37,4 @@
     - ![12](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/12.PNG)
     - ![13](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/13.PNG)
 ## Summary
-    - ![14](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/14.PNG)   
+![14](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/P1_14.PNG)
