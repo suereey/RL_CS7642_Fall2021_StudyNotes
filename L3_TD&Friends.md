@@ -32,3 +32,9 @@
     - ![09](https://raw.githubusercontent.com/suereey/RL_CS7642_Fall2021_StudyNotes/main/screenshot/L3/09.PNG)
 - TD Lambda:
     - ![10]()
+- K step estimator
+    - ![11]()
+    - ![12]()
+    - ![13]()
+## Summary
+    - ![14]()   
